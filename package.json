@@ -1,0 +1,8 @@
+{
+  "name": "timoxley-lzw",
+  "description": "LZW Encoder",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
